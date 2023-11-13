@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1034491372070",
+    "firebase_url": "https://store-data-realtime-abel-crud-default-rtdb.firebaseio.com",
+    "project_id": "store-data-realtime-abel-crud",
+    "storage_bucket": "store-data-realtime-abel-crud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034491372070:android:4d64753d5246ab28523ce7",
+        "android_client_info": {
+          "package_name": "com.example.storedatarealtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmwi2wKPeMxLMUw0F69VQ5hOPzaqTpzY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
